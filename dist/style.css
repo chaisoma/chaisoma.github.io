@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+}
+
+
+header {
+  border: 5px outset black;
+  height: 100px;
+  background: #303030;
+}
+.head {
+  height:80px;
+  margin-top:10px;
+  margin-left:10px;
+}
+.anx {
+  height:400px;
+  margin-top:125px;
+  margin-left:410px;
+}
+.dep { 
+  height:350px;
+  margin-top:100px;
+  margin-left:100px;
+  
+}
+
+h1 {
+  margin-top: -70px;
+  margin-left:700px;
+  color: #e6a302;
+}
+main {
+   border: 5px outset black;
+  height: 1000px;
+  background: #fdfffc;
+}
+Anxiety {
+  position: relative;
+  top: 160px;
+  left: 600px;
+  font-size: 25px;
+  color: #058c42;
+
+}
+Depression{
+  position: relative;
+  top: 160px;
+  left: 1000px;
+  font-size: 25px;
+  color: #058c42;
+
+}
+h2 {
+  margin-left: 690px;
+  color: #1b4279;
+}
+
+footer {
+   border: 5px outset black;
+  height: 100px;
+  background: #303030;
+}
+soma {
+  color: white;
+  position: relative;
+  top: 40px;
+  left: 100px;
+  
+  
+}
