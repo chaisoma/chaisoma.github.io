@@ -62,31 +62,23 @@ body{
 
 header {
   border: 5px outset grey;
-  height: 100px;
+  height: 10%;
   background: #303030;
 }
 .head {
-  height:80px;
-  margin-top:10px;
-  margin-left:10px;
-}
-.anx {
-  height:400px;
-  margin-top:125px;
-  margin-left:410px;
-}
-.dep { 
-  height:400px;
-  width: 550px;
-  margin-top:100px;
-  margin-left:50px;
-  
+  height:4%;
+  width:4%;
+  margin-top:-4%;
+  margin-left:2%;
 }
 
 h1 {
-  margin-top: -70px;
-  margin-left:700px;
+ text-align: center;
   color: #e6a302;
+}
+h2 {
+  text-align: center;
+  color: #1b4279;
 }
 main {
    border: 5px outset black;
@@ -94,36 +86,41 @@ main {
   background: #fdfffc;
 }
 Anxiety {
-  position: relative;
-  top: 160px;
-  left: 600px;
-  font-size: 25px;
+  margin-left: 40%;
+  font-size: 150%;
   color: #058c42;
 
 }
-Depression{
-  position: relative;
-  top: 160px;
-  left: 1000px;
-  font-size: 25px;
+Depression {
+  margin-left: 10%;
+  font-size: 150%;
   color: #058c42;
-
 }
-h2 {
-  margin-left: 690px;
-  color: #1b4279;
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10%;
+  margin-top: 2%;
 }
+* {
+  box-sizing: border-box;
+}
+.column {
 
+ 
+  
+}
+}
 footer {
    border: 5px outset black;
-  height: 100px;
+  height: 100%;
   background: #303030;
 }
 soma {
+ text-align: left;
   color: white;
-  position: relative;
-  top: 40px;
-  left: 100px;
+  border: 2px;
   
   
 }
